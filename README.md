@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">👨🏼‍💻 Técnico em Redes de Computadores<br><br>📚 Estudante de Engenharia da computação- UPE<br><br>🖥️ Engenheiro DevOps Jr-Assoc Incident Mngmt Spec na Liferay</p><br>
+<p align="left">👨🏼‍💻 Técnico em Redes de Computadores<br><br>📚 Estudante de Engenharia da computação<br><br>🖥️ Engenheiro DevOps Jr-Assoc Incident Mngmt Spec na Liferay</p><br>
 
 ###
 
